@@ -1,1 +1,0 @@
-# React Navigation Paket Kurulumu

@@ -1,1 +1,0 @@
-# Örnek Projenin ViewModel ve Model Kullanarak Refaktör Edilmesi

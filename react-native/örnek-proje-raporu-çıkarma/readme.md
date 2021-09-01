@@ -1,1 +1,0 @@
-#### Örnek Proje Raporu Çıkarma ####

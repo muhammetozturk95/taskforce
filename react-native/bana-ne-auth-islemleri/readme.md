@@ -1,1 +1,0 @@
-# bana-ne-auth-islemleri

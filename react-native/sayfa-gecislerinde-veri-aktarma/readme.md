@@ -1,1 +1,0 @@
-# Sayfa Geçişlerinde Veri Aktarma 

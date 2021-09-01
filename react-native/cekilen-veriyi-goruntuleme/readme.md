@@ -1,1 +1,0 @@
-cekilen-veriyi-goruntuleme

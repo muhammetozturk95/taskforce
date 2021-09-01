@@ -1,1 +1,0 @@
-# mobil-uygulama-geliştirme-analizi

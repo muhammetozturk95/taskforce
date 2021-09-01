@@ -1,1 +1,0 @@
-#### State ve Lifecycle Bölüm Tanıtımı ####

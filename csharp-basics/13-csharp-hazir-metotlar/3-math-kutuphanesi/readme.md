@@ -1,1 +1,0 @@
-# Math Kütüphanesi ve Metotları

@@ -1,1 +1,0 @@
-# Delete endpoint'inin yazılması

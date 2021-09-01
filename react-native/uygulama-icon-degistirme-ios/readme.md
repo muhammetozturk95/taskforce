@@ -1,1 +1,0 @@
-uygulama-icon-degistirme-ios

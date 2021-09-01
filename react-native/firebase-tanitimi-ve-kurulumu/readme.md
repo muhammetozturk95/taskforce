@@ -1,1 +1,0 @@
-firebase-tanitimi-ve-kurulumu

@@ -1,1 +1,0 @@
-# Test Nedir? Neden Yazılır?

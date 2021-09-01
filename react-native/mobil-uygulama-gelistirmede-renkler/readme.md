@@ -1,1 +1,0 @@
-# Mobil Uygulama Geliştirmede Renkler

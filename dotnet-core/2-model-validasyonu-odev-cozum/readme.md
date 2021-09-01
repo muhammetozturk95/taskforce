@@ -1,1 +1,0 @@
-# Fluent Validation Ödev Çözümü
